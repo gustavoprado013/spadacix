@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>SPA Dacxi</h1>
-      </div>
+  </div>
 </template>
 
 <script>
